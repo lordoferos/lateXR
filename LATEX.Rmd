@@ -1,0 +1,27 @@
+---
+title: "LATEX"
+author: "lordoferos"
+date: "9/10/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+\begin{equation}
+\sum_{k=1}^{n} \frac{1}{2^k}
+\end{equation}
+```
+
+https://cran.r-project.org/bin/windows/Rtools/
+```{r}
+packageUrl <- "https://cran.r-project.org/bin/windows/Rtools/"
+install.packages(packageUrl, repos = NULL, type = 'source')
+```
+
+```{r}
+writeLines('PATH="${C:\\rtools40}\\usr\\bin;${make.exe}"', con = "~/.Renviron")
+```
+
