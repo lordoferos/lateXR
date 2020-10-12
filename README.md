@@ -1,2 +1,6 @@
 # lateXR
 Playing around with latex in R
+
+
+# Figure
+[alt!](https://github.com/lordoferos/lateXR/blob/main/latexpdf.JPG)
