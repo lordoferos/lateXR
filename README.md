@@ -1,5 +1,5 @@
 # lateXR
-Playing around with latex in R
+Playing around with latex in R Markdown
 
 
 # Figure
