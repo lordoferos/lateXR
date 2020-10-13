@@ -31,5 +31,14 @@ $\alpha$ & $\beta$ & $\gamma$ \\ \hline
 
 This is a table
 
+\section{}
+\subsection{}
+\subsubsection{}
+
+\paragraph{}
+\subparagraph{}
+
+# A list of important formulas in mathematics
+
 
 
