@@ -29,7 +29,8 @@ $\alpha$ & $\beta$ & $\gamma$ \\ \hline
 \end{tabular}
 \end{center}
 
-This is a table
+This is a table knitted into a pdf
+It has a specifici font type and sizing
 
 \section{}
 \subsection{}
