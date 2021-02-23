@@ -1,7 +1,7 @@
 # lateXR
 Playing around with latex in R Markdown
 
-$$\text{RER} = \frac {1} {4}
+$$\text{RER} = \frac {1} {4}$$
 
 
 # Figure
