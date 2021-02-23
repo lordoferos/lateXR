@@ -2,6 +2,7 @@
 Playing around with latex in R Markdown
 
 $$\text{RER} = \frac {1} {4}$$
+$`\sqrt{2}`$
 
 
 # Figure
